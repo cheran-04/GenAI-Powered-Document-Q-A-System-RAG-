@@ -1,0 +1,6 @@
+# Virtual environment
+qa-venv/
+# Bytecode
+*.pyc
+# Database files (if using a local one)
+*.sqlite3
